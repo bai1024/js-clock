@@ -1,3 +1,6 @@
+## 效果图
+![images](http://ok7n02kz6.bkt.clouddn.com/FsAOXtMY6-TXn8kXsPQtwaeNWVOg.gif)
+
 ## 关键点
 1.表盘上指针的样式：旋转的效果
 2.获取实时的时间
