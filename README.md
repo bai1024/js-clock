@@ -1,5 +1,5 @@
 ## 效果图
-![images](http://ok7n02kz6.bkt.clouddn.com/FsAOXtMY6-TXn8kXsPQtwaeNWVOg.gif)
+![](http://ok7n02kz6.bkt.clouddn.com/FsAOXtMY6-TXn8kXsPQtwaeNWVOg.gif)
 
 ## 关键点
 1. 表盘上指针的样式：旋转的效果
@@ -8,9 +8,9 @@
 
 ## CSS部分
 这次主要运用了一下几个特性：
-1. `transform-orgin`,用来调整指针的初始位置以及旋转的轴点。
-2. `transform:rotate()`,用来控制指针旋转的角度。
-3. `transiton-time-function`,用来设置过渡的动画效果，为了表现出时钟“滴答滴答”的感觉
+1.  `transform-orgin`,用来调整指针的初始位置以及旋转的轴点。
+2.  `transform:rotate()`,用来控制指针旋转的角度。
+3.  `transiton-time-function`,用来设置过渡的动画效果，为了表现出时钟“滴答滴答”的感觉
 
 ## js部分
 1. 创建setData()方法，获取当前的时间。
