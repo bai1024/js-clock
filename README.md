@@ -1,5 +1,7 @@
 ## 效果图
-![](http://ok7n02kz6.bkt.clouddn.com/FsAOXtMY6-TXn8kXsPQtwaeNWVOg.gif)
+<p align="center">
+    <img src="http://ok7n02kz6.bkt.clouddn.com/FsAOXtMY6-TXn8kXsPQtwaeNWVOg.gif" alt="clock effect-pic">
+</p>
 
 ## 关键点
 1. 表盘上指针的样式：旋转的效果
