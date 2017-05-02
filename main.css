@@ -5,6 +5,7 @@
       font-size: 10px;
     }
 body {
+  margin:0;
   font-size: 2rem;
   display:flex;
   flex:1;
