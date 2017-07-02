@@ -1,15 +1,7 @@
-# Clock
+# JS Clock
 
-[Online Demo](https://dingdingbai.github.io/clock/)
+基于DOM的简约时钟，[Online Demo](https://dingdingbai.github.io/js-clock/)
 
 <p align="center">
-
-<img src="http://ok7n02kz6.bkt.clouddn.com/FsAOXtMY6-TXn8kXsPQtwaeNWVOg.gif" alt="img">
-
+  <img src="http://ok7n02kz6.bkt.clouddn.com/FsAOXtMY6-TXn8kXsPQtwaeNWVOg.gif" alt="img">
 </p>
-
-## Feature
-
-- 模拟真实时钟
-
-  可以展示时间，有真实时钟一样的指针移动效果
