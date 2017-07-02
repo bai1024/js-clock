@@ -54,17 +54,13 @@ body {
 }
 .second-hand {
   background: #C15C48;
-  width: 8em;
   height: 5px;
-  left: 50px;
 }
 .min-hand{
-  width: 7em;
-  left: 70px;
+  height: 10px;
 }
 .hour-hand{
   height: 20px;
-  left: 90px;
 }
 .cover{
   position: absolute;
